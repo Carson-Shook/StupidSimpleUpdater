@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Update>
+  <X86>
+    <Name>Your Program (x86)</Name>
+    <CurrentVersion>1.1.0.0</CurrentVersion>
+    <PatchNotesUrl>https://example.com/releases/ExamplePatchNotes.rtf</PatchNotesUrl>
+    <DownloadUrl>https://example.com/releases/YourApplicationX86.msi</DownloadUrl>
+  </X86>
+  <X64>
+    <Name>Your Program (x64)</Name>
+    <CurrentVersion>1.1.0.0</CurrentVersion>
+    <PatchNotesUrl>https://example.com/releases/ExamplePatchNotes.rtf</PatchNotesUrl>
+    <DownloadUrl>https://example.com/releases/YourApplicationX64.msi</DownloadUrl>
+  </X64>
+</Update>
