@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
-  <Module Id="SSUP_merge_x64" Language="0" Version="1.0.1.0">
+  <Module Id="SSUP_merge_x64" Language="0" Version="1.1.0.0">
     <Package Id="7184C8D4-8F5D-4804-A4EC-A87FBF8DC73C" Manufacturer="Carson Shook" InstallerVersion="301" InstallScope="perMachine"/>
     
     <Directory Id="TARGETDIR" Name="SourceDir">

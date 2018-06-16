@@ -60,11 +60,13 @@ namespace StupidSimpleUpdater.Updater
         public UpdateManager()
         {
             this.applicationInvoked = false;
+            ServicePointManager.SecurityProtocol |= SecurityProtocolType.Tls12;
         }
 
         public UpdateManager(bool applicationInvoked)
         {
             this.applicationInvoked = applicationInvoked;
+            ServicePointManager.SecurityProtocol |= SecurityProtocolType.Tls12;
         }
 
         #endregion
