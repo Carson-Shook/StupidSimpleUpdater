@@ -1,4 +1,7 @@
 # StupidSimpleUpdater
+
+![StupidSimpleUpdater Logo](https://github.com/Carson-Shook/StupidSimpleUpdater/blob/gh-pages/SSUPIcon.svg)
+
 StupidSimpleUpdater (SSUP) is an msi-based updater system that is packaged as a merge module for easy integration into your project.
 
 SSUP was built to allow applications with msi-installers to be updated from static websites (such as Github Pages). This requires that each msi be a complete installer rather than a patch or delta update. You can download the latest version of the merge-modules and the sample configuration files from the [releases page](https://github.com/Carson-Shook/StupidSimpleUpdater/releases) of this branch.
