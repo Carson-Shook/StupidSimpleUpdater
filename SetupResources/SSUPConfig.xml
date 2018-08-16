@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<Config>
-  <BuildType>X64</BuildType>
-  <Name>YourExecutableName</Name>
-  <CheckFrequency>Daily</CheckFrequency>
-  <Url>https://example.com/releases/SSUPUpdateManifest.xml</Url>
-</Config>
