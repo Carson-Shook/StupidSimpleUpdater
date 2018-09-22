@@ -142,6 +142,9 @@ hr {
 #userfriendlytext {
 	margin-top: 30px;
 }
+#SSUP1 {
+	width: 615px;
+}
 /* Media Query Differences */
 @media screen and (max-width: 1099px),
 screen and (max-width: 1099px) and (-webkit-min-device-pixel-ratio: 2),
@@ -152,12 +155,6 @@ screen and (max-width: 1099px) and (min-device-pixel-ratio: 2) {
 				margin: auto;
 			  margin-bottom: 0;
     }
-		#menutext {
-			margin-top: 25px;
-		}
-		#emojipreviewtext {
-			margin-top: 5px;
-		}
 		h2 {
 				font-size: 1.2em;
 				margin-bottom: 1em;
@@ -170,7 +167,7 @@ screen and (max-width: 1099px) and (min-device-pixel-ratio: 2) {
 screen and (max-width: 736px) and (-webkit-min-device-pixel-ratio: 2),
 screen and (max-width: 736px) and (min-device-pixel-ratio: 2) {
 		h1 {
-				font-size: 3em;
+				font-size: 2.6em;
 		}
 		h2 {
 			font-size: 1.6em;
